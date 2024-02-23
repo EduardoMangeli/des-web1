@@ -1,0 +1,5 @@
+1 - Java
+ referência: https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)
+ O java serve para programar usando orientação a objetos.
+
+ relaciona com os tópicos 3, 4, e 7
